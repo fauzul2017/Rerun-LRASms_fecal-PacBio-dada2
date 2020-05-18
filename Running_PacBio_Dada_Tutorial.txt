@@ -1,4 +1,4 @@
-### During re-run of the tutorial provided on https://benjjneb.github.io/LRASManuscript/LRASms_fecal.html, i have found one small error in the ordination step. Here, i have used bold font and red font to show the code and there repalcement code is shown in green colour##############
+### During re-run of the tutorial provided on https://benjjneb.github.io/LRASManuscript/LRASms_fecal.html, i have found one small error in the ordination step. Here, i have commented the earlier written command and updated new one which will plot the same result shown in the tutorial##############
 
 library(dada2)
 library(Biostrings)
